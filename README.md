@@ -12,7 +12,7 @@
   <img align="center" alt="Salatiel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Salatiel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Salatiel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Salatiel-pic" height="30%" width="30%" src="https://im5.ezgif.com/tmp/ezgif-5-12c9d02f07.gif">
+   
 </div>
 
   ##
